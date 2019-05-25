@@ -1,0 +1,78 @@
+@CHARSET "UTF-8";
+
+html,
+body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+#container {
+  min-height:100%;
+  position:relative;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  text-align: center;
+  background: #75BC5B;
+  color: #000000
+}
+
+.page-header {
+  border-bottom: 0px;
+}
+
+#body {
+  padding-bottom:50px;
+}
+
+p.aParagraph {
+  text-indent: 50px;
+}
+
+.wiki{
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.list-group {
+  margin-bottom: 0px;
+  text-align: center;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+.form-group{
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#com{
+  border-left: 6px solid #0B4;
+  padding-left: 1em;
+  padding-top: 1.5em;
+  text-align: left;
+  background-color: #FFFFFF;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:50px;
+  background-color: #efefef;
+  text-align: center;
+  padding: 1em;
+}
