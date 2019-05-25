@@ -1,0 +1,6 @@
+Please note, the checkout function sends an email copy to all the site admins via BCC, in addition to the email to the customer themselves.
+ct310   admin     A835E0   ct310@cs.colostate.edu
+fred    customer  3B23E6   ct310@cs.colostate.edu 
+pjbrunn admin     peter	   pjbrunn@rams.colostate.edu
+elise   admin     elise    ekritsch@rams.colostate.edu
+customerTest customer password pjbrunn@rams.colostate.edu

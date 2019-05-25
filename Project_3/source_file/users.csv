@@ -1,0 +1,6 @@
+username,admin,email,hash
+elise,1,ekritsch@rams.colostate.edu,$2a$10$Z4WmkLk6DIbcdfw1rSAjne9oOr4E6RTSOKyiP7XRwnOnw1QLjyBlq
+pjbrunn,1,pjbrunn@rams.colostate.edu,$2a$10$d38nfrE6IJS82m7RhPk9f.hC2rOQ28l44XiCK5GRNUtPt2KElytU6
+customerTest,0,pjbrunn@rams.colostate.edu,$2y$10$a75fA3fMkU2Qk36Xum9ta.qazsRowA0Mru3XX/ukfRxv63VnbGlrq
+ct310,1,ct310@cs.colostate.edu,$2a$10$AoWRyJ/EvpnVfchrezeTKuzJBYBomjiG3AszuFw2mvWAvJf2APojO
+fred,0,ct310@cs.colostate.edu,$2a$07$vTWXHw6A0nvNZsLt9NJRSOexpNz9tV1Hwq2hCcX3GR98xOhf5I7um
