@@ -1,0 +1,189 @@
+@CHARSET "UTF-8";
+
+
+
+body{
+	background-color: #1C2331;
+	color:#dddce1;
+}
+.jumbotron {
+	background-image: url("logo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0%, 50%;
+	text-shadow: black 0.3em, 0.3em, 3em;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+div.headerattrib
+{
+	text-align: right;
+
+}
+
+h3.headertitle
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.attribution{
+	font-size: .5em;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+h1{
+	padding-left: 1em;
+}
+
+.welcome {
+        text-align: center;
+}
+
+ul.pageList{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+	padding-left: auto;
+	padding-right: auto;
+}
+
+li.ingredientsList
+{
+	display: inline-block;
+    width: fit-content;
+    text-align: left; 
+    padding: 0 auto 1em auto;
+	list-style-type: none;
+
+}
+
+ul.ingredients p {
+    display: inline-block;
+    text-align: center;
+	list-style-type: none;
+
+}
+
+.page-header {
+	border-bottom: 0px;
+}
+
+.list-group {
+	margin-bottom: 0px;
+}
+
+.headers{
+	padding-left: 10px;
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+	 text-align: center;
+}
+
+#loginForm {
+	color:#000;
+}
+
+input, textarea{
+    color: #000000;
+	border: 2px solid #37474f;
+	border-radius: 10px;
+}
+
+.about {
+	text-align: center;
+}
+
+#about {
+	padding: 2cm;
+}
+
+.navbar-fixed-bottom{
+	padding-bottom: 16px;
+}
+
+.footer{
+	padding-top: 8px;
+	padding-right: 8px;
+	text-align: right;
+}
+
+.currentInfo{
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-left: 8px;
+	text-align: left;
+	float: left;
+}
+
+.panel
+{
+	background: #3f729b;
+	margin: 4em;
+	padding: 1em;
+	text-shadow: 0.1em, 0.1em, 0.1em;
+	width: auto;
+    word-break:break-word;
+}
+
+.panel-mainBox
+{
+	background: #263238;
+	width: 60%;
+	padding: 3em;
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+    word-break:break-word;
+}
+
+.panel-info
+{
+	background: #3f729b;
+}
+
+.panel-ingredient
+{
+	background: #263238;
+	margin:3em;
+	padding:3em;
+}
+
+.panel-commentBox
+{
+	background: #263238;
+	margin: 0;
+}
+
+.panel-ingredientBox
+{
+	background: #263238;
+	margin: 0;
+}
+
+li.list-group-item
+{
+	background: #3f729b;
+}
+
+div.checkout
+{
+	background: #263238;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input.quant
+{
+	width: auto;
+	text-align: center;
+}
+
